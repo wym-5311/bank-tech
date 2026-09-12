@@ -1,0 +1,25 @@
+{
+  "name": "银行科技岗备考工作台",
+  "short_name": "银行备考",
+  "description": "银行科技岗笔试备考工作台：计算机专业知识 / 行测 / 英语",
+  "lang": "zh-CN",
+  "start_url": "./bank-tech.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
